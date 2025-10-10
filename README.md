@@ -1,4 +1,9 @@
-![logo](https://github.com/Omar7926/Omar7926/blob/main/Data-Science-Slide.jpg)
+<p align="center">
+  <img src="https://github.com/Omar7926/Omar7926/blob/main/Data-Science-Slide.jpg" 
+       alt="Data Science Logo" 
+       style="max-width: 100%; height: auto; border-radius: 10px;" />
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Muhammad Omar Bin Khalid</h1>
 <h3 align="center">Aspiring Data Scientist from Pakistan</h3>
