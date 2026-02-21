@@ -9,7 +9,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&duration=4000&pause=1000&color=00C3FF&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Muhammad+Omar+Bin+Khalid;💡+Data+Science+%26+AI/ML+Enthusiast;📊+I+Love+Finding+Stories+Hidden+in+Data" alt="Typing SVG" />
 </h1>
-<img align="right" alt="coding" width="260" style="border-radius:10px; margin-left:15px;" src="https://camo.githubusercontent.com/15857bd385b12298e036391e6b9644e481eb0903f46311126cb5f571df2b3686/68747470733a2f2f77686f736172676879612e6e65746c6966792e6170702f636f6e74656e742f67697068792e676966">
+<img align="right" alt="coding" width="260" style="border-radius:10px; margin-left:15px;" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar7926&label=Profile%20views&color=0e75b6&style=flat" alt="omar7926" /> </p>
 
